@@ -9,5 +9,5 @@ class Admin extends Usuario {
     }
 
 }
-echo "Admin cargado";
+
 ?>
